@@ -1,5 +1,7 @@
 # KKBOXOpenApi-Core
 
+[![](https://jitpack.io/v/KKBOX-XDDD/KKBOXOpenApi-Core.svg)](https://jitpack.io/#KKBOX-XDDD/KKBOXOpenApi-Core)
+
 The package implements the basic data models for KKBOX's Open API.
 
 ## Installation
